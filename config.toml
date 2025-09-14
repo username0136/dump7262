@@ -14,5 +14,5 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00 ReVanced"
 arch = "arm64-v8a"
 build-mode = "module"
-included-patches = "'Bitrate default value' 'Certificate spoof' 'Dark theme' 'Disable Cairo splash animation' 'Disable DRC audio' 'Disable music video in album' 'Enable landscape mode' 'Fix playback' 'Flyout menu components' 'Hide action bar components' 'Hide ads' 'Navigation bar components' 'Remove background playback restrictions' 'Remove viewer discretion dialog' 'Return YouTube Dislike' 'Sanitize sharing links' 'Settings for YouTube Music' 'SponsorBlock' 'Video playback'"
+included-patches = "'Bitrate default value' 'Disable Cairo splash animation' 'Disable DRC audio' 'Disable music video in album' 'Hide action bar components' 'Hide ads' 'Navigation bar components' 'Remove background playback restrictions' 'Remove viewer discretion dialog' 'Return YouTube Dislike' 'Sanitize sharing links' 'Settings for YouTube Music' 'SponsorBlock' 'Video playback'"
 exclusive-patches = true
