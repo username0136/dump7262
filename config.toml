@@ -5,6 +5,14 @@ parallel-jobs = 1
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 # you can use rvmm-config-gen to generate a config
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "inotia00 ReVanced"
+included-patches = "'Ambient mode control' 'Bypass URL redirects' 'Change live ring click action' 'Disable forced auto audio tracks' 'Disable haptic feedback' 'Disable splash animation' 'Hide action buttons' 'Hide ads' 'Hide layout components' 'Hook download actions' 'Miniplayer' 'Navigation bar components' 'Open links externally' 'Overlay buttons' 'Player components' 'Remove background playback restrictions' 'Remove viewer discretion dialog' 'Return YouTube Dislike' 'Sanitize sharing links' 'Seekbar components' 'Settings for YouTube' 'Shorts components' 'SponsorBlock' 'Theme' 'Video playback'"
+exclusive-patches = true
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
