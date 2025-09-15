@@ -13,7 +13,7 @@ integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00 ReVanced"
 arch = "arm64-v8a"
 build-mode = "module"
-included-patches = "'Ambient mode control' 'Bypass URL redirects' 'Change live ring click action' 'Disable forced auto audio tracks' 'Disable haptic feedback' 'Disable splash animation' 'Hide action buttons' 'Hide ads' 'Hide layout components' 'Hook download actions' 'Miniplayer' 'Navigation bar components' 'Open links externally' 'Overlay buttons' 'Player components' 'Remove background playback restrictions' 'Remove viewer discretion dialog' 'Return YouTube Dislike' 'Sanitize sharing links' 'Seekbar components' 'Settings for YouTube' 'Shorts components' 'SponsorBlock' 'Theme' 'Video playback'"
+included-patches = "'Ambient mode control' 'Bypass URL redirects' 'Change live ring click action' 'Disable forced auto audio tracks' 'Disable haptic feedback' 'Disable splash animation' 'Hide action buttons' 'Hide ads' 'Hide layout components' 'Hide player buttons' 'Hook download actions' 'Miniplayer' 'Navigation bar components' 'Open links externally' 'Overlay buttons' 'Player components' 'Remove background playback restrictions' 'Remove viewer discretion dialog' 'Return YouTube Dislike' 'Sanitize sharing links' 'Seekbar components' 'Settings for YouTube' 'Shorts components' 'SponsorBlock' 'Theme' 'Video playback'"
 exclusive-patches = true
 
 [Music]
